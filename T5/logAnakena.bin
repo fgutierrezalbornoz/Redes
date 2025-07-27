@@ -1,0 +1,144 @@
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 1
+Total packets sent: 371
+Total packets transmitted (including retransmissions): 373
+Total error: 0.54%
+Max size window : 1
+Estimated RTT : 0.0105 sec
+Final variable timeout: 0.0157 sec
+Bandwidth: 0.9498 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 10
+Total packets sent: 371
+Total packets transmitted (including retransmissions): 373
+Total error: 0.54%
+Max size window : 10
+Estimated RTT : 0.0170 sec
+Final variable timeout: 0.0254 sec
+Bandwidth: 7.6802 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 15
+Total packets sent: 371
+Total packets transmitted (including retransmissions): 383
+Total error: 3.13%
+Max size window : 15
+Estimated RTT : 0.0093 sec
+Final variable timeout: 0.0139 sec
+Bandwidth: 11.7878 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 20
+Total packets sent: 371
+Total packets transmitted (including retransmissions): 383
+Total error: 3.13%
+Max size window : 20
+Estimated RTT : 0.0109 sec
+Final variable timeout: 0.0163 sec
+Bandwidth: 13.2802 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 50
+Total packets sent: 371
+Total packets transmitted (including retransmissions): 400
+Total error: 7.25%
+Max size window : 50
+Estimated RTT : 0.0118 sec
+Final variable timeout: 0.0177 sec
+Bandwidth: 20.0262 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 80
+Total packets sent: 371
+Total packets transmitted (including retransmissions): 384
+Total error: 3.39%
+Max size window : 80
+Estimated RTT : 0.0166 sec
+Final variable timeout: 0.0248 sec
+Bandwidth: 26.5864 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 100
+Total packets sent: 371
+Total packets transmitted (including retransmissions): 383
+Total error: 3.13%
+Max size window : 100
+Estimated RTT : 0.0387 sec
+Final variable timeout: 0.0580 sec
+Bandwidth: 20.3755 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 150
+Total packets sent: 371
+Total packets transmitted (including retransmissions): 403
+Total error: 7.94%
+Max size window : 150
+Estimated RTT : 0.0193 sec
+Final variable timeout: 0.0289 sec
+Bandwidth: 23.4830 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 200
+Total packets sent: 371
+Total packets transmitted (including retransmissions): 1207
+Total error: 69.26%
+Max size window : 200
+Estimated RTT : 0.0092 sec
+Final variable timeout: 0.0139 sec
+Bandwidth: 13.8767 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 500
+Total packets sent: 371
+Total packets transmitted (including retransmissions): 1839
+Total error: 79.83%
+Max size window : 372
+Estimated RTT : 0.0427 sec
+Final variable timeout: 0.0641 sec
+Bandwidth: 6.2612 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 999
+Total packets sent: 371
+Total packets transmitted (including retransmissions): 1400
+Total error: 73.50%
+Max size window : 372
+Estimated RTT : 0.0415 sec
+Final variable timeout: 0.0623 sec
+Bandwidth: 7.7400 Mbits/sec
+=============================================================
+Test anakena size = 4000, timeout = 0.1, window size = 999
+Total packets sent: 130
+Total packets transmitted (including retransmissions): 318
+Total error: 59.12%
+Max size window : 131
+Estimated RTT : 0.0778 sec
+Final variable timeout: 0.1167 sec
+Bandwidth: 8.6515 Mbits/sec
+=============================================================
+Test anakena size = 4000, timeout = 0.1, window size = 500
+Total packets sent: 130
+Total packets transmitted (including retransmissions): 228
+Total error: 42.98%
+Max size window : 131
+Estimated RTT : 0.0792 sec
+Final variable timeout: 0.1188 sec
+Bandwidth: 9.9700 Mbits/sec
+=============================================================
+Test anakena size = 4000, timeout = 0.1, window size = 100
+Total packets sent: 130
+Total packets transmitted (including retransmissions): 157
+Total error: 17.20%
+Max size window : 100
+Estimated RTT : 0.0248 sec
+Final variable timeout: 0.0371 sec
+Bandwidth: 29.2802 Mbits/sec
+=============================================================
+Test anakena size = 4000, timeout = 0.1, window size = 50
+Total packets sent: 130
+Total packets transmitted (including retransmissions): 131
+Total error: 0.76%
+Max size window : 50
+Estimated RTT : 0.0465 sec
+Final variable timeout: 0.0698 sec
+Bandwidth: 26.9882 Mbits/sec
+=============================================================
+Test anakena size = 4000, timeout = 0.1, window size = 10
+Total packets sent: 130
+Total packets transmitted (including retransmissions): 131
+Total error: 0.76%
+Max size window : 10
+Estimated RTT : 0.0120 sec
+Final variable timeout: 0.0180 sec
+Bandwidth: 17.0749 Mbits/sec

@@ -1,0 +1,160 @@
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 1
+Total packets sent: 371
+Total errors (windows retransmitted): 0
+Error percentage: 0.00%
+Total packets transmitted (including retransmissions): 371
+Extra packets transmitted due to retransmissions: 0.00%
+Max size window : 1
+Estimated RTT : 0.0147 sec
+Bandwidth: 0.828287671910562 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 10
+Total packets sent: 371
+Total errors (windows retransmitted): 2
+Error percentage: 0.54%
+Total packets transmitted (including retransmissions): 384
+Extra packets transmitted due to retransmissions: 3.50%
+Max size window : 10
+Estimated RTT : 0.0773 sec
+Bandwidth: 5.039966223558121 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 100
+Total packets sent: 371
+Total errors (windows retransmitted): 3
+Error percentage: 0.81%
+Total packets transmitted (including retransmissions): 620
+Extra packets transmitted due to retransmissions: 67.12%
+Max size window : 100
+Estimated RTT : 0.0559 sec
+Bandwidth: 12.592026297567706 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 500
+Total packets sent: 371
+Total errors (windows retransmitted): 9
+Error percentage: 2.43%
+Total packets transmitted (including retransmissions): 2159
+Extra packets transmitted due to retransmissions: 481.94%
+Max size window : 278
+Estimated RTT : 0.0164 sec
+Bandwidth: 10.695851982648735 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 1000
+Total packets sent: 371
+Total errors (windows retransmitted): 18
+Error percentage: 4.85%
+Total packets transmitted (including retransmissions): 5392
+Extra packets transmitted due to retransmissions: 1353.37%
+Max size window : 301
+Estimated RTT : 0.0623 sec
+Bandwidth: 8.419089053166678 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 50
+Total packets sent: 371
+Total errors (windows retransmitted): 3
+Error percentage: 0.81%
+Total packets transmitted (including retransmissions): 438
+Extra packets transmitted due to retransmissions: 18.06%
+Max size window : 50
+Estimated RTT : 0.0811 sec
+Bandwidth: 5.2377 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 80
+Total packets sent: 371
+Total errors (windows retransmitted): 1
+Error percentage: 0.27%
+Total packets transmitted (including retransmissions): 392
+Extra packets transmitted due to retransmissions: 5.66%
+Max size window : 80
+Estimated RTT : 0.0947 sec
+Bandwidth: 9.5982 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 200
+Total packets sent: 371
+Total errors (windows retransmitted): 12
+Error percentage: 3.23%
+Total packets transmitted (including retransmissions): 1401
+Extra packets transmitted due to retransmissions: 277.63%
+Max size window : 200
+Estimated RTT : 0.0836 sec
+Bandwidth: 4.6167 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 150
+Total packets sent: 371
+Total errors (windows retransmitted): 8
+Error percentage: 2.16%
+Total packets transmitted (including retransmissions): 1453
+Extra packets transmitted due to retransmissions: 291.64%
+Max size window : 150
+Estimated RTT : 0.0133 sec
+Bandwidth: 8.1833 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 15
+Total packets sent: 371
+Total errors (windows retransmitted): 0
+Error percentage: 0.00%
+Total packets transmitted (including retransmissions): 371
+Extra packets transmitted due to retransmissions: 0.00%
+Max size window : 15
+Estimated RTT : 0.0660 sec
+Bandwidth: 10.3402 Mbits/sec
+=============================================================
+Test anakena size = 1400, timeout = 0.1, window size = 20
+Total packets sent: 371
+Total errors (windows retransmitted): 2
+Error percentage: 0.54%
+Total packets transmitted (including retransmissions): 402
+Extra packets transmitted due to retransmissions: 8.36%
+Max size window : 20
+Estimated RTT : 0.0958 sec
+Bandwidth: 9.7453 Mbits/sec
+=============================================================
+Test anakena size = 4000, timeout = 0.1, window size = 10
+Total packets sent: 130
+Total errors (windows retransmitted): 1
+Error percentage: 0.77%
+Total packets transmitted (including retransmissions): 133
+Extra packets transmitted due to retransmissions: 2.31%
+Max size window : 10
+Estimated RTT : 0.0799 sec
+Bandwidth: 12.7528 Mbits/sec
+=============================================================
+Test anakena size = 4000, timeout = 0.1, window size = 100
+Total packets sent: 130
+Total errors (windows retransmitted): 19
+Error percentage: 14.62%
+Total packets transmitted (including retransmissions): 713
+Extra packets transmitted due to retransmissions: 448.46%
+Max size window : 79
+Estimated RTT : 0.0862 sec
+Bandwidth: 3.7426 Mbits/sec
+=============================================================
+Test anakena size = 4000, timeout = 0.1, window size = 1000
+Total packets sent: 130
+Total errors (windows retransmitted): 26
+Error percentage: 20.00%
+Total packets transmitted (including retransmissions): 1521
+Extra packets transmitted due to retransmissions: 1070.00%
+Max size window : 131
+Estimated RTT : 0.0894 sec
+Bandwidth: 3.6840 Mbits/sec
+=============================================================
+Test anakena size = 4000, timeout = 0.1, window size = 500
+Total packets sent: 130
+Total errors (windows retransmitted): 17
+Error percentage: 13.08%
+Total packets transmitted (including retransmissions): 1160
+Extra packets transmitted due to retransmissions: 792.31%
+Max size window : 131
+Estimated RTT : 0.0923 sec
+Bandwidth: 5.0996 Mbits/sec
+=============================================================
+Test anakena size = 4000, timeout = 0.1, window size = 50
+Total packets sent: 130
+Total errors (windows retransmitted): 8
+Error percentage: 6.15%
+Total packets transmitted (including retransmissions): 316
+Extra packets transmitted due to retransmissions: 143.08%
+Max size window : 50
+Estimated RTT : 0.0399 sec
+Bandwidth: 7.0935 Mbits/sec

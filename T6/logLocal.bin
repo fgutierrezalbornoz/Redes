@@ -1,0 +1,90 @@
+=============================================================
+Test localhost size = 10000, timeout = 1.0, window size = 1
+Total packets sent: 61657
+Total packets transmitted (including retransmissions): 61657
+Total error: 0.00%
+Max size window : 1
+Min size congestion window: 1
+Estimated RTT : 0.0065 sec
+Final variable timeout: 0.0130 sec
+Bandwidth: 56.4962 Mbits/sec
+=============================================================
+Test localhost size = 10000, timeout = 1.0, window size = 10
+Total packets sent: 61657
+Total packets transmitted (including retransmissions): 61657
+Total error: 0.00%
+Max size window : 10
+Min size congestion window: 10
+Estimated RTT : 0.0288 sec
+Final variable timeout: 0.0576 sec
+Bandwidth: 97.8808 Mbits/sec
+=============================================================
+Test localhost size = 10000, timeout = 1.0, window size = 12
+Total packets sent: 61657
+Total packets transmitted (including retransmissions): 61658
+Total error: 0.00%
+Max size window : 12
+Min size congestion window: 6
+Estimated RTT : 0.0107 sec
+Final variable timeout: 0.0214 sec
+Bandwidth: 102.5996 Mbits/sec
+=============================================================
+Test localhost size = 10000, timeout = 1.0, window size = 15
+Total packets sent: 61657
+Total packets transmitted (including retransmissions): 61659
+Total error: 0.00%
+Max size window : 15
+Min size congestion window: 8
+Estimated RTT : 0.0175 sec
+Final variable timeout: 0.0349 sec
+Bandwidth: 106.1491 Mbits/sec
+=============================================================
+Test localhost size = 10000, timeout = 1.0, window size = 50
+Total packets sent: 61657
+Total packets transmitted (including retransmissions): 61700
+Total error: 0.07%
+Max size window : 50
+Min size congestion window: 7
+Estimated RTT : 0.0119 sec
+Final variable timeout: 0.0239 sec
+Bandwidth: 95.5081 Mbits/sec
+=============================================================
+Test localhost size = 10000, timeout = 1.0, window size = 100
+Total packets sent: 61657
+Total packets transmitted (including retransmissions): 61914
+Total error: 0.42%
+Max size window : 100
+Min size congestion window: 2
+Estimated RTT : 0.0155 sec
+Final variable timeout: 0.0619 sec
+Bandwidth: 90.3573 Mbits/sec
+=============================================================
+Test localhost size = 10000, timeout = 1.0, window size = 500
+Total packets sent: 61657
+Total packets transmitted (including retransmissions): 65457
+Total error: 5.81%
+Max size window : 500
+Min size congestion window: 2
+Estimated RTT : 0.0227 sec
+Final variable timeout: 0.0453 sec
+Bandwidth: 53.9486 Mbits/sec
+=============================================================
+Test localhost size = 10000, timeout = 1.0, window size = 400
+Total packets sent: 61657
+Total packets transmitted (including retransmissions): 63882
+Total error: 3.48%
+Max size window : 400
+Min size congestion window: 2
+Estimated RTT : 0.0251 sec
+Final variable timeout: 0.0501 sec
+Bandwidth: 59.9864 Mbits/sec
+=============================================================
+Test localhost size = 10000, timeout = 1.0, window size = 900
+Total packets sent: 61657
+Total packets transmitted (including retransmissions): 69437
+Total error: 11.20%
+Max size window : 739
+Min size congestion window: 2
+Estimated RTT : 0.0221 sec
+Final variable timeout: 0.0442 sec
+Bandwidth: 45.0333 Mbits/sec

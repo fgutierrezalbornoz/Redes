@@ -1,0 +1,80 @@
+=============================================================
+Test localhost size = 10000, timeout = 0.1, window size = 1000
+Total packets sent: 61657
+Total errors (windows retransmitted): 7780
+Error percentage: 12.62%
+Total packets transmitted (including retransmissions): 7718828
+Extra packets transmitted due to retransmissions: 12418.98%
+Max size window : 1000
+Estimated RTT : 0.0600 sec
+Bandwidth: 20.1761 Mbits/sec
+=============================================================
+Test localhost size = 10000, timeout = 0.1, window size = 500
+Total packets sent: 61657
+Total errors (windows retransmitted): 4644
+Error percentage: 7.53%
+Total packets transmitted (including retransmissions): 2382101
+Extra packets transmitted due to retransmissions: 3763.47%
+Max size window : 500
+Estimated RTT : 0.0197 sec
+Bandwidth: 14.5650 Mbits/sec
+=============================================================
+Test localhost size = 10000, timeout = 0.1, window size = 100
+Total packets sent: 61657
+Total errors (windows retransmitted): 4693
+Error percentage: 7.61%
+Total packets transmitted (including retransmissions): 530180
+Extra packets transmitted due to retransmissions: 759.89%
+Max size window : 100
+Estimated RTT : 0.0143 sec
+Bandwidth: 13.8594 Mbits/sec
+=============================================================
+Test localhost size = 10000, timeout = 0.1, window size = 1
+Total packets sent: 61657
+Total errors (windows retransmitted): 0
+Error percentage: 0.00%
+Total packets transmitted (including retransmissions): 61657
+Extra packets transmitted due to retransmissions: 0.00%
+Max size window : 1
+Estimated RTT : 0.0006 sec
+Bandwidth: 69.1787 Mbits/sec
+=============================================================
+Test localhost size = 10000, timeout = 0.1, window size = 10
+Total packets sent: 61657
+Total errors (windows retransmitted): 0
+Error percentage: 0.00%
+Total packets transmitted (including retransmissions): 61657
+Extra packets transmitted due to retransmissions: 0.00%
+Max size window : 10
+Estimated RTT : 0.0776 sec
+Bandwidth: 109.8475 Mbits/sec
+=============================================================
+Test localhost size = 10000, timeout = 0.1, window size = 50
+Total packets sent: 61657
+Total errors (windows retransmitted): 4674
+Error percentage: 7.58%
+Total packets transmitted (including retransmissions): 295357
+Extra packets transmitted due to retransmissions: 379.03%
+Max size window : 50
+Estimated RTT : 0.0105 sec
+Bandwidth: 13.5379 Mbits/sec
+=============================================================
+Test localhost size = 10000, timeout = 0.1, window size = 15
+Total packets sent: 61657
+Total errors (windows retransmitted): 4630
+Error percentage: 7.51%
+Total packets transmitted (including retransmissions): 131102
+Extra packets transmitted due to retransmissions: 112.63%
+Max size window : 15
+Estimated RTT : 0.0163 sec
+Bandwidth: 13.3950 Mbits/sec
+=============================================================
+Test localhost size = 10000, timeout = 0.1, window size = 12
+Total packets sent: 61657
+Total errors (windows retransmitted): 3709
+Error percentage: 6.02%
+Total packets transmitted (including retransmissions): 106164
+Extra packets transmitted due to retransmissions: 72.18%
+Max size window : 12
+Estimated RTT : 0.0083 sec
+Bandwidth: 14.0797 Mbits/sec

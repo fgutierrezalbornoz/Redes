@@ -1,0 +1,322 @@
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=2000 bytes y timeout=0.04 seg================
+Hora experimento: 20:14
+Se enviaron 517983 bytes y se recibieron 517209 bytes
+Se enviaron 260 paquetes y se perdieron 1 paquetes
+Se perdió el 0.3% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 94.5 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=3000 bytes y timeout=0.04 seg================
+Hora experimento: 20:14
+Se enviaron 517983 bytes y se recibieron 517467 bytes
+Se enviaron 174 paquetes y se perdieron 1 paquetes
+Se perdió el 0.5% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 139.6 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=4000 bytes y timeout=0.04 seg================
+Hora experimento: 20:14
+Se enviaron 517983 bytes y se recibieron 517596 bytes
+Se enviaron 132 paquetes y se perdieron 2 paquetes
+Se perdió el 1.5% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 50.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.7% de los paquetes.
+Ancho de banda = 183.0 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=5000 bytes y timeout=0.04 seg================
+Hora experimento: 20:14
+Se enviaron 517983 bytes y se recibieron 517674 bytes
+Se enviaron 105 paquetes y se perdieron 1 paquetes
+Se perdió el 0.9% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 226.3 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=6000 bytes y timeout=0.04 seg================
+Hora experimento: 20:14
+Se enviaron 517983 bytes y se recibieron 517725 bytes
+Se enviaron 88 paquetes y se perdieron 1 paquetes
+Se perdió el 1.1% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 266.5 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=7000 bytes y timeout=0.04 seg================
+Hora experimento: 20:14
+Se enviaron 517983 bytes y se recibieron 517764 bytes
+Se enviaron 75 paquetes y se perdieron 1 paquetes
+Se perdió el 1.3% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 310.1 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=8000 bytes y timeout=0.04 seg================
+Hora experimento: 20:14
+Se enviaron 517983 bytes y se recibieron 517791 bytes
+Se enviaron 66 paquetes y se perdieron 1 paquetes
+Se perdió el 1.5% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 351.0 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=9000 bytes y timeout=0.04 seg================
+Hora experimento: 20:15
+Se enviaron 517983 bytes y se recibieron 517812 bytes
+Se enviaron 59 paquetes y se perdieron 1 paquetes
+Se perdió el 1.6% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 384.6 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=10000 bytes y timeout=0.04 seg================
+Hora experimento: 20:15
+Se enviaron 517983 bytes y se recibieron 517830 bytes
+Se enviaron 53 paquetes y se perdieron 1 paquetes
+Se perdió el 1.8% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 431.5 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=2000 bytes y timeout=0.05 seg================
+Hora experimento: 20:15
+Se enviaron 517983 bytes y se recibieron 517209 bytes
+Se enviaron 262 paquetes y se perdieron 3 paquetes
+Se perdió el 1.1% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 33.3% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.7% de los paquetes.
+Ancho de banda = 74.2 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=3000 bytes y timeout=0.05 seg================
+Hora experimento: 20:15
+Se enviaron 517983 bytes y se recibieron 517467 bytes
+Se enviaron 175 paquetes y se perdieron 2 paquetes
+Se perdió el 1.1% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 50.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.5% de los paquetes.
+Ancho de banda = 111.4 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=4000 bytes y timeout=0.05 seg================
+Hora experimento: 20:15
+Se enviaron 517983 bytes y se recibieron 517596 bytes
+Se enviaron 131 paquetes y se perdieron 1 paquetes
+Se perdió el 0.7% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 148.5 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=5000 bytes y timeout=0.05 seg================
+Hora experimento: 20:15
+Se enviaron 517983 bytes y se recibieron 517674 bytes
+Se enviaron 106 paquetes y se perdieron 2 paquetes
+Se perdió el 1.8% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 50.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.9% de los paquetes.
+Ancho de banda = 181.6 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=6000 bytes y timeout=0.05 seg================
+Hora experimento: 20:15
+Se enviaron 517983 bytes y se recibieron 517725 bytes
+Se enviaron 89 paquetes y se perdieron 2 paquetes
+Se perdió el 2.2% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 50.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 1.1% de los paquetes.
+Ancho de banda = 215.4 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=7000 bytes y timeout=0.05 seg================
+Hora experimento: 20:15
+Se enviaron 517983 bytes y se recibieron 517764 bytes
+Se enviaron 75 paquetes y se perdieron 1 paquetes
+Se perdió el 1.3% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 250.2 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=8000 bytes y timeout=0.05 seg================
+Hora experimento: 20:15
+Se enviaron 517983 bytes y se recibieron 517791 bytes
+Se enviaron 66 paquetes y se perdieron 1 paquetes
+Se perdió el 1.5% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 282.5 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=9000 bytes y timeout=0.05 seg================
+Hora experimento: 20:15
+Se enviaron 517983 bytes y se recibieron 517812 bytes
+Se enviaron 61 paquetes y se perdieron 3 paquetes
+Se perdió el 4.9% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 33.3% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 3.3% de los paquetes.
+Ancho de banda = 302.7 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=10000 bytes y timeout=0.05 seg================
+Hora experimento: 20:15
+Se enviaron 517983 bytes y se recibieron 517830 bytes
+Se enviaron 53 paquetes y se perdieron 1 paquetes
+Se perdió el 1.8% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 343.6 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=2000 bytes y timeout=0.1 seg================
+Hora experimento: 20:16
+Se enviaron 517983 bytes y se recibieron 517209 bytes
+Se enviaron 260 paquetes y se perdieron 1 paquetes
+Se perdió el 0.3% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 36.9 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=3000 bytes y timeout=0.1 seg================
+Hora experimento: 20:16
+Se enviaron 517983 bytes y se recibieron 517467 bytes
+Se enviaron 175 paquetes y se perdieron 2 paquetes
+Se perdió el 1.1% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 50.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.5% de los paquetes.
+Ancho de banda = 54.9 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=4000 bytes y timeout=0.1 seg================
+Hora experimento: 20:16
+Se enviaron 517983 bytes y se recibieron 517596 bytes
+Se enviaron 131 paquetes y se perdieron 1 paquetes
+Se perdió el 0.7% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 74.0 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=5000 bytes y timeout=0.1 seg================
+Hora experimento: 20:17
+Se enviaron 517983 bytes y se recibieron 517674 bytes
+Se enviaron 105 paquetes y se perdieron 1 paquetes
+Se perdió el 0.9% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 91.5 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=6000 bytes y timeout=0.1 seg================
+Hora experimento: 20:17
+Se enviaron 517983 bytes y se recibieron 517725 bytes
+Se enviaron 88 paquetes y se perdieron 1 paquetes
+Se perdió el 1.1% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 105.3 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=7000 bytes y timeout=0.1 seg================
+Hora experimento: 20:17
+Se enviaron 517983 bytes y se recibieron 517764 bytes
+Se enviaron 75 paquetes y se perdieron 1 paquetes
+Se perdió el 1.3% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 126.5 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=8000 bytes y timeout=0.1 seg================
+Hora experimento: 20:17
+Se enviaron 517983 bytes y se recibieron 517791 bytes
+Se enviaron 66 paquetes y se perdieron 1 paquetes
+Se perdió el 1.5% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 85.0 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=9000 bytes y timeout=0.1 seg================
+Hora experimento: 20:17
+Se enviaron 517983 bytes y se recibieron 517812 bytes
+Se enviaron 59 paquetes y se perdieron 1 paquetes
+Se perdió el 1.6% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 159.1 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=10000 bytes y timeout=0.1 seg================
+Hora experimento: 20:17
+Se enviaron 517983 bytes y se recibieron 517830 bytes
+Se enviaron 53 paquetes y se perdieron 1 paquetes
+Se perdió el 1.8% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 181.4 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=10000 bytes y timeout=0.03 seg================
+Hora experimento: 20:17
+Se enviaron 517983 bytes y se recibieron 517830 bytes
+Se enviaron 56 paquetes y se perdieron 4 paquetes
+Se perdió el 7.1% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 25.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 5.4% de los paquetes.
+Ancho de banda = 529.0 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=15000 bytes y timeout=0.03 seg================
+Hora experimento: 20:17
+Se enviaron 517983 bytes y se recibieron 517881 bytes
+Se enviaron 37 paquetes y se perdieron 2 paquetes
+Se perdió el 5.4% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 50.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 2.7% de los paquetes.
+Ancho de banda = 783.7 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=20000 bytes y timeout=0.03 seg================
+Hora experimento: 20:18
+Se enviaron 517983 bytes y se recibieron 517908 bytes
+Se enviaron 28 paquetes y se perdieron 2 paquetes
+Se perdió el 7.1% de los paquetes.
+Del total de los paquetes perdidos, 1 están relacionado con el eof enviado.
+Esto corresponde al 50.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 3.7% de los paquetes.
+Ancho de banda = 1002.2 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=1000 bytes y timeout=0.04 seg================
+Hora experimento: 20:19
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=1000 bytes y timeout=0.05 seg================
+Hora experimento: 20:21
+Se enviaron 517983 bytes y se recibieron 516432 bytes
+Se enviaron 739 paquetes y se perdieron 221 paquetes
+Se perdió el 29.9% de los paquetes.
+Del total de los paquetes perdidos, 221 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 20.1 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=1000 bytes y timeout=0.1 seg================
+Hora experimento: 20:22
+Se enviaron 517983 bytes y se recibieron 516432 bytes
+Se enviaron 528 paquetes y se perdieron 10 paquetes
+Se perdió el 1.8% de los paquetes.
+Del total de los paquetes perdidos, 10 están relacionado con el eof enviado.
+Esto corresponde al 100.0% del total de los paquetes perdidos.
+Si no consideramos los paquetes perdidos por el EOF, se tiene que se perdió el 0.0% de los paquetes.
+Ancho de banda = 18.1 KB/s
+================ Fin del experimento ================

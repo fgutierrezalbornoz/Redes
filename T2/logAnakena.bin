@@ -1,0 +1,216 @@
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=1000 bytes ================
+Hora experimento: 14:45
+Se enviaron 517983 bytes y se recibieron 517983 bytes
+Se perdió el 0.0% de los datos.
+Ancho de banda = 190.8 MB/s
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=1000bytes ================
+Hora experimento: 14:45
+Se enviaron 220524 bytes y se recibieron 220524 bytes
+Se perdió el 0.0% de los datos.
+Ancho de banda = 66.3 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=1000 bytes ================
+Hora experimento: 14:46
+Se enviaron 517983 bytes y se recibieron 438983 bytes
+Se perdió el 15.2% de los datos.
+Ancho de banda = 229.5 MB/s
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=1000bytes ================
+Hora experimento: 14:46
+Se enviaron 210936 bytes y se recibieron 210936 bytes
+Se perdió el 0.0% de los datos.
+Ancho de banda = 67.3 KB/s
+================ Fin del experimento ================
+
+Se agotó el tiempo de espera
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=2000 bytes ================
+Hora experimento: 14:48
+Medición no válida
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=2000bytes ================
+Hora experimento: 14:48
+Medición no válida
+================ Fin del experimento ================
+Se agotó el tiempo de espera
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=2000 bytes ================
+Hora experimento: 14:49
+Medición no válida
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=2000bytes ================
+Hora experimento: 14:49
+Medición no válida
+================ Fin del experimento ================
+Se agotó el tiempo de espera
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=2000 bytes ================
+Hora experimento: 14:49
+Medición no válida
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=2000bytes ================
+Hora experimento: 14:49
+Medición no válida
+================ Fin del experimento ================
+Se agotó el tiempo de espera
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=2000 bytes ================
+Hora experimento: 14:52
+Medición no válida
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=2000bytes ================
+Hora experimento: 14:52
+Medición no válida
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=2000 bytes ================
+Hora experimento: 14:56
+Se enviaron 517983 bytes y se recibieron 191983 bytes
+Se perdió el 62.9% de los datos.
+Ancho de banda = 355.8 MB/s
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=2000bytes ================
+Hora experimento: 14:56
+Se enviaron 210936 bytes y se recibieron 210936 bytes
+Se perdió el 0.0% de los datos.
+Ancho de banda = 65.3 KB/s
+================ Fin del experimento ================
+Se agotó el tiempo de espera
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=3000 bytes ================
+Hora experimento: 14:56
+Medición no válida
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=3000bytes ================
+Hora experimento: 14:56
+Medición no válida
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=3000 bytes ================
+Hora experimento: 14:57
+Se enviaron 517983 bytes y se recibieron 337983 bytes
+Se perdió el 34.7% de los datos.
+Ancho de banda = 523.6 MB/s
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=3000bytes ================
+Hora experimento: 14:57
+Se enviaron 201348 bytes y se recibieron 201348 bytes
+Se perdió el 0.0% de los datos.
+Ancho de banda = 61.2 KB/s
+================ Fin del experimento ================
+Se agotó el tiempo de espera
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=4000 bytes ================
+Hora experimento: 14:57
+Medición no válida
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=4000bytes ================
+Hora experimento: 14:57
+Medición no válida
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=4000 bytes ================
+Hora experimento: 14:58
+Se enviaron 517983 bytes y se recibieron 373983 bytes
+Se perdió el 27.8% de los datos.
+Ancho de banda = 828.2 MB/s
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=4000bytes ================
+Hora experimento: 14:58
+Se enviaron 767040 bytes y se recibieron 765452 bytes
+Se perdió el 0.2% de los datos.
+Ancho de banda = 257.3 KB/s
+================ Fin del experimento ================
+Se agotó el tiempo de espera
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=5000 bytes ================
+Hora experimento: 14:58
+Medición no válida
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=5000bytes ================
+Hora experimento: 14:59
+Medición no válida
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=5000 bytes ================
+Hora experimento: 14:59
+Se enviaron 517983 bytes y se recibieron 517983 bytes
+Se perdió el 0.0% de los datos.
+Ancho de banda = 474.8 MB/s
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=5000bytes ================
+Hora experimento: 14:59
+Se enviaron 767040 bytes y se recibieron 720336 bytes
+Se perdió el 6.0% de los datos.
+Ancho de banda = 254.0 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=6000 bytes ================
+Hora experimento: 15:00
+Se enviaron 517983 bytes y se recibieron 517983 bytes
+Se perdió el 0.0% de los datos.
+Ancho de banda = 915.7 MB/s
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=6000bytes ================
+Hora experimento: 15:00
+Se enviaron 767040 bytes y se recibieron 734688 bytes
+Se perdió el 4.2% de los datos.
+Ancho de banda = 252.7 KB/s
+================ Fin del experimento ================
+Se agotó el tiempo de espera
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=7000 bytes ================
+Hora experimento: 15:01
+Medición no válida
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=7000bytes ================
+Hora experimento: 15:01
+Medición no válida
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=7000 bytes ================
+Hora experimento: 15:02
+Se enviaron 517983 bytes y se recibieron 489983 bytes
+Se perdió el 5.4% de los datos.
+Ancho de banda = 328.2 MB/s
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=7000bytes ================
+Hora experimento: 15:02
+Se enviaron 767040 bytes y se recibieron 737512 bytes
+Se perdió el 3.8% de los datos.
+Ancho de banda = 248.8 KB/s
+================ Fin del experimento ================
+Se agotó el tiempo de espera
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=8000 bytes ================
+Hora experimento: 15:02
+Medición no válida
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=8000bytes ================
+Hora experimento: 15:02
+Medición no válida
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=8000 bytes ================
+Hora experimento: 15:02
+Se enviaron 517983 bytes y se recibieron 421983 bytes
+Se perdió el 18.5% de los datos.
+Ancho de banda = 997.5 MB/s
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=8000bytes ================
+Hora experimento: 15:03
+Se enviaron 575280 bytes y se recibieron 573692 bytes
+Se perdió el 0.2% de los datos.
+Ancho de banda = 196.4 KB/s
+================ Fin del experimento ================
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=9000 bytes ================
+Hora experimento: 15:04
+Se enviaron 517983 bytes y se recibieron 508983 bytes
+Se perdió el 1.7% de los datos.
+Ancho de banda = 528.0 MB/s
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=9000bytes ================
+Hora experimento: 15:04
+Se enviaron 767040 bytes y se recibieron 749040 bytes
+Se perdió el 2.3% de los datos.
+Ancho de banda = 257.5 KB/s
+================ Fin del experimento ================
+Se agotó el tiempo de espera
+Se agotó el tiempo de espera
+================ Experimento 1: Enviando un archivo de 500KB a Anakena con size=10000 bytes ================
+Hora experimento: 15:38
+Se enviaron 517983 bytes y se recibieron 497983 bytes
+Se perdió el 3.8% de los datos.
+Ancho de banda = 669.0 MB/s
+================ Fin del experimento ================
+================ Experimento 2: Enviando 80 archivos de 10KB a Anakena con size=10000bytes ================
+Hora experimento: 15:38
+Se enviaron 728688 bytes y se recibieron 651984 bytes
+Se perdió el 10.5% de los datos.
+Ancho de banda = 226.9 KB/s
+================ Fin del experimento ================
